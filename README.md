@@ -101,10 +101,8 @@ To use this project:
 
 ## License
 
-*(Please specify the license you want to use for your project here. If you don't have a specific license, you can state something like "No License Specified" or "All Rights Reserved".)*
+*MIT*
 
-## Contact
 
-*(Would you like to include your GitHub profile link or another form of contact information here? Please let me know.)*
 
 ---
